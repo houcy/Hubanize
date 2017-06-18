@@ -167,3 +167,60 @@ Can add and edit within the project. This is the Project role is for the persons
 ##### _Viewer_
 
 Can only see. The viewer is an observer-account with limited access.
+
+## Development
+Even though **Hubanize** is ready for deployment, there is still some stuff in the pipeline. A rough overview can be seen below.
+
+### General
+
+ 1. Implement more functionalities for the API
+ 2. Global search
+ 4. Bin/thrash saving nth days
+ 5. Personalized notifier/email notifications
+
+### Tasks
+
+ 1. Ressource management
+
+### Dashboard
+
+ 1. Each user can personalize the dashboard:
+ 1a. Front dashboard
+ 1b. Project dashboard
+ 2. More predefined charts and overviews
+ 3. Personalized drag and drop charts
+
+### List view
+
+ 1. Bulk editing
+ 2. Bulk adding
+ 3. Visually indicate if a task includes a subtask
+ 4. Editing/adding task in sidebar or in dialog
+
+### Kanban view
+
+ 1. Personalize view (remember last view)
+
+### Notebooks (personal and project specific)
+
+ 1. Optimize sorting, filtering and searching
+
+### To-do lists
+
+ 1. Faster changing between to-do lists
+ 2. Drag and drop to-do list items between lists
+ 3. Open lists in new separate window 
+
+## Issues, questions and ideas
+Please use the Github issue system to send comments. When creating a new issue, you have to use the issue-template. This template is automated shown to you, when you create a new issue.
+
+### Heading (Naming the comments)
+When describing your comment in the heading, please start the heading with one of the texts below and then a short description of your comment.
+
+ - Issue - *And your short description goes here*
+ - Bug -
+ - Error -
+ - Enhancement -
+ - Idea -
+ - Contribution -
+ - Other -
