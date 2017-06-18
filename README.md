@@ -6,6 +6,38 @@ Alpha: https://ytd.dk
 
 Beta: https://hubanize.com (not yet)
 
+## Screenshots
+
+### Dashboard
+
+![alt text](screenshots/dashboard.png "Dashboard")
+
+### Kanban
+
+![alt text](screenshots/dashboardKanban.png "Kanban")
+
+### Task in list view
+
+![alt text](screenshots/projectActionslist.png "List view")
+
+### Gantt
+
+![alt text](screenshots/projectGantt.png "Gantt")
+
+### Project settings
+
+![alt text](screenshots/projectSettings.png "Project settings")
+
+### Notebook (notes)
+
+![alt text](screenshots/notebookSticks.png "Notes")
+
+### To-do list
+
+![alt text](screenshots/todoItems.png "To-do list")
+
+
+
 ## Features
 **Hubanize** is primary designed for managing multiple projects at the same time. But it does contain multiple other features to enhance each users daily work. This is done by including personal (or project specific) to-do lists and notebooks  for e.g. minute of meeting.
 The reason for **Hubanize's** splitted focus *(project specific and user specific)* is to ensure, that all tasks  relating to the projects and the users personal daily tasks are collected into one single tool.
