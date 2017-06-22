@@ -2,9 +2,7 @@
 
 Project management software combined with personal to-do lists and notebooks.
 
-Alpha: https://ytd.dk
-
-Beta: https://hubanize.com (not yet)
+Alpha: https://hubanize.com (soon Beta)
 
 ## Screenshots
 
